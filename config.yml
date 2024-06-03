@@ -1,0 +1,10 @@
+CHUNK_OVERLAP: 10
+CHUNK_SIZE: 200
+DB_FAISS_PATH: db_faiss/
+EMBEDDINGS: sentence-transformers/all-MiniLM-L6-v2
+MAX_NEW_TOKENS: 512
+MODEL_BIN_PATH: models/llama-2-7b-chat.ggmlv3.q8_0.bin
+MODEL_TYPE: llama
+RETURN_SOURCE_DOCUMENTS: true
+TEMPERATURE: 0.0
+VECTOR_COUNT: 2
